@@ -2,6 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=writeameer&label=Profile%20views&color=0e75b6&style=flat" alt="DiyazY" />  
 
+I have extensive experience in advisory, strategy, architecture and design. I have a background as both a developer and a system engineer.  I spend a lot of time trying to simplify building secure systems in the cloud.
+
 --- 
 
 
