@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=writeameer&label=Profile%20views&color=0e75b6&style=flat" alt="DiyazY" />  
 
-I have extensive experience in advisory, strategy, architecture and design. I have backgrounds in both development and a system design.  I spend a lot of time trying to simplify building secure and scalable systems in the cloud.
+I have extensive experience in advisory, strategy, architecture and design. I have a application development and system design background.  I enjoy simplifying building secure and scalable systems in the cloud.
 
 --- 
 
